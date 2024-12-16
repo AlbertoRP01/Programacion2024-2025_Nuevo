@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa7cd90c-7a68-47d6-9001-5577addbee12" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Boletin_Objetos/src/Cuenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boletin_Objetos/src/CuentaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boletin_Objetos/src/Maquina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boletin_Objetos/src/MaquinaCafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boletin_Objetos/src/MaquinaCafeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boletin_Objetos/src/PrincipalCuenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boletin_Objetos/src/Rectangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boletin_Objetos/src/RectanguloAPP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boletin_Objetos/src/RectanguloException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoletinArrays/src" beforeDir="false" afterPath="$PROJECT_DIR$/../BoletinArrays/src" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BuscaMinas/src/Busca_Minas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BuscaMinas/src/Busca_Minas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MiEntradaSalida/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MiEntradaSalida/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MiEntradaSalida/src/MiEntradaSalida.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Boletin_Objetos/src/MiEntradaSalida.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2pW0E7tHBpLGzEgSzeMHH1uIY5X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/alumno/Downloads/GOL-Alumnos/GOL-Alumnos"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa7cd90c-7a68-47d6-9001-5577addbee12" name="Changes" comment="" />
+      <created>1732866412702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732866412702</updated>
+    </task>
+    <servers />
+  </component>
+</project>

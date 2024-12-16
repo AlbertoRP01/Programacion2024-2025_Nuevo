@@ -23,7 +23,6 @@ public class Busca_Minas {
     }
 
 
-
     public static void plantarMinas(int numMinas) {
         for (int i = 0; i < numMinas; i++) {
             int coordX = (int) (Math.random() * TAM_MATRIZ);
@@ -35,18 +34,19 @@ public class Busca_Minas {
             }
         }
     }
-    public static  void  visualizaTablero(){
-        for (int i = 0; i < TAM_MATRIZ; i++){
-            for ( int j = 0; j < TAM_MATRIZ; j ++){
-                if (matrizLevantadas[i][j] ){
+
+    public static void visualizaTablero() {
+        for (int i = 0; i < TAM_MATRIZ; i++) {
+            for (int j = 0; j < TAM_MATRIZ; j++) {
+                if (matrizLevantadas[i][j]) {
                     //Muestro el contenido e la casilla de la matriz de  minas
                     System.out.printf("%2d", matrizMinas[i][j]);
-                }
-                else{
+                } else {
                     System.out.printf("%2d | ", matrizMinas[i][j]);
                 }
             }
             System.out.println();
         }
     }
+
 }
