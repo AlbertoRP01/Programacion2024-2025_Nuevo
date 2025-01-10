@@ -1,4 +1,4 @@
-import java.sql.SQLOutput;
+/*import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class MaquinaCafe {
@@ -97,4 +97,4 @@ public class MaquinaCafe {
                 hayExistencias = m.getVasosRestantes() > 0 && m.getDosisLeche() > 0 && m.getDosisCafes() > 0;
                 break;
         }
-}
+} */
